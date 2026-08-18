@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://fuad-hasan-mugdho.github.io/"><img src="https://img.shields.io/badge/Portfolio-d44b26?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://fuad-hasan-mugdho.github.io/my_portfolio_website/"><img src="https://img.shields.io/badge/Portfolio-d44b26?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/fuad-hasan-mugdho/"><img src="https://img.shields.io/badge/LinkedIn-0c5d7a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fuadhasan642@gmail.com"><img src="https://img.shields.io/badge/Email-12161d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -83,7 +83,7 @@ Managed operational databases, monitoring, optimization, data integrity, product
 
 I'm based in **Bangladesh** and open to remote and on-site collaboration.
 
-- 🌐 [Explore my portfolio](https://fuad-hasan-mugdho.github.io/)
+- 🌐 [Explore my portfolio](https://fuad-hasan-mugdho.github.io/my_portfolio_website/)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/fuad-hasan-mugdho/)
 - ✉️ [Email me](mailto:fuadhasan642@gmail.com)
 
